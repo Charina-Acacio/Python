@@ -2,7 +2,7 @@
 #edited by charina mae acacio
 
 #Dice Rolling Simulator
-
+# import random enables the user to get
 import random
 
 #These variables are used for user input and while loop checking.
